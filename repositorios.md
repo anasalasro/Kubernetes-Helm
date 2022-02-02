@@ -1,4 +1,4 @@
-``helm repo list
+```helm repo list
 helm repo add "stable "http://charts.helm.sh/stable"
 helm repo add "stable" "https://charts.helm.sh/stable" --force-update
 helm repo add bitnami https://charts.bitnami.com/bitnami
