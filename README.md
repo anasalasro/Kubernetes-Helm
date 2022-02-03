@@ -19,6 +19,7 @@ Aquí podréis ver información sobre helm, su instalación y una instalación d
 4.3. Acceso a la aplicación  
 ## Referencias
 
-[tech-es](https://tech-es.netlify.app/articles/es534490/index.html)  
+[aplyca](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes)  
+
 ## Licencia
 - [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png) 
