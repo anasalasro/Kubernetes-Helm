@@ -8,7 +8,7 @@ Aquí podréis ver información sobre helm y su instalación.
 ## Índice:
 1. [ ¿Qué es Helm? ¿Qué son los charts? ](https://github.com/anasalasro/Kubernetes-Helm/blob/main/Que%20es%20helm.md)  
 2. [ Instalación de helm. ](https://github.com/anasalasro/Kubernetes-Helm/blob/main/Instalacion.md)
-3. [ Trabajando con repositorios ](https://github.com/anasalasro/k0s/blob/main/cloud.md)  
+3. [ Trabajando con repositorios ](https://github.com/anasalasro/Kubernetes-Helm/blob/main/repositorios.md)  
 3.1. Listar repositorios  
 3.2. Añadir repositorios: bitnami  
 3.3. Quitar repositorios  
