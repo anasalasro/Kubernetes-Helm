@@ -19,7 +19,9 @@ Aquí podréis ver información sobre helm, su instalación y una instalación d
 4.3. Acceso a la aplicación  
 ## Referencias
 
-[aplyca](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes)  
+[Aplyca](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes)  
+[Artifacthub](https://artifacthub.io/packages/helm/bitnami/wordpress)  
+
 
 ## Licencia
 - [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png) 
