@@ -3,7 +3,7 @@
 ![logoLinux](https://github.com/anasalasro/Kubernetes-Helm/blob/main/imagenes/helm.png)
 ## Descripción
 ``` ruby
-Aquí podréis ver información sobre helm y su instalación.
+Aquí podréis ver información sobre helm, su instalación y una instalación de wordpress parametrizada .
 ```
 ## Índice:
 1. [ ¿Qué es Helm? ¿Qué son los charts? ](https://github.com/anasalasro/Kubernetes-Helm/blob/main/Que%20es%20helm.md)  
