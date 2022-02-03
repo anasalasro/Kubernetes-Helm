@@ -1,6 +1,6 @@
 
 # HELM
-![logoLinux](https://github.com/anasalasro/Kubernetes-Helm/blob/main/imagenes/helm.png)
+![logoLinux](https://github.com/anasalasro/Kubernetes-Helm/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-03%2013-43-41.png)
 ## Descripción
 ``` ruby
 Aquí podréis ver información sobre helm, su instalación y una instalación de wordpress parametrizada .
