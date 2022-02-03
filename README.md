@@ -18,8 +18,8 @@ Aquí podréis ver información sobre helm y su instalación.
 4.2.  Comprobación de los objetos creados.  
 4.3. Acceso a la aplicación  
 ## Referencias
-[ aplyca ](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes#:~:text=Helm%20(del%20t%C3%A9rmino%20mar%C3%ADtimo%20de,para%20gestionar%20aplicaciones%20de%20Kubernetes.&text=La%20principal%20funci%C3%B3n%20de%20Helm,y%20la%20comunidad%20de%20Helm.)  
-[k0s](https://docs.k0sproject.io/v1.22.4+k0s.1/install/)  
+
+[k0s](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes#:~:text=Helm%20(del%20t%C3%A9rmino%20mar%C3%ADtimo%20de,para%20gestionar%20aplicaciones%20de%20Kubernetes.&text=La%20principal%20funci%C3%B3n%20de%20Helm,y%20la%20comunidad%20de%20Helm.)  
 [tech-es](https://tech-es.netlify.app/articles/es534490/index.html)  
 ## Licencia
 - [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png) 
