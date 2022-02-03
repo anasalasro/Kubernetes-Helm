@@ -13,7 +13,7 @@ Aquí podréis ver información sobre helm y su instalación.
 3.2. Añadir repositorios: bitnami  
 3.3. Quitar repositorios  
 3.4. Buscar charts: nginx, wordpress, etc  
-4. [ Caso práctico: Instalar wordpress  ](https://github.com/anasalasro/k0s/blob/main/prepararServidor.md)  
+4. [ Caso práctico: Instalar wordpress  ](https://github.com/anasalasro/Kubernetes-Helm/blob/main/casopractico.md)  
 4.1. Vamos a parametrizar el wordpress, indicando dos parámetros: el tipo de servicio y el nombre del blog  
 4.2.  Comprobación de los objetos creados.  
 4.3. Acceso a la aplicación  
