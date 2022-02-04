@@ -1,4 +1,4 @@
-# ¿Qué es helm? ¿qué es un chart?
+# ¿Qué es helm? ¿Qué es un chart?
 
 ``` ruby
 Helm (del término marítimo de timón) es una herramienta para gestionar aplicaciones de Kubernetes.  
